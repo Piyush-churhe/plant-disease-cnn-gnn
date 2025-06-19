@@ -1,0 +1,7 @@
+torch
+torchvision
+streamlit
+pillow
+numpy
+timm
+torch-geometric
