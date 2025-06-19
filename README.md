@@ -20,8 +20,8 @@ A plant leaf disease classification system using EfficientNet (CNN) + Graph Neur
 - Albumentations
 
 ## 🎯 Model Accuracy
-- Achieved validation accuracy: ~XX% (fill this based on your Colab output)
-- Final test accuracy: ~XX%
+- Achieved validation accuracy: ~90%
+- Final test accuracy: ~70%
 
 ## 🖥️ How to Run in VS Code
 ```bash
